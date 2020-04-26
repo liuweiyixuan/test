@@ -1,0 +1,12 @@
+girl: 
+ age: 24
+ name: 刘翊萱
+
+server: 
+ port: 8899
+ 
+ 
+ spring: 
+  application: 
+    name: config-client
+ 
